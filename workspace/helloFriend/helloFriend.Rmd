@@ -1,0 +1,112 @@
+---
+title: "Hello Friend"
+subtitle: "WSU ID: 011628090"
+author: "Sean Wallace [sean.d.wallace@wsu.edu]"
+date: "1/31/2021"
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Introduction
+
+This document is intended to be an introduction of both myself and my interests. As this is being created to fulfill a requirement
+for a statistics class that is being taken in pursuit of my Software Engineering degree it will also touch on my technical experience
+and future aspirations. Finally, because I believe it to be pertinent to the person I have become, I will provide a brief outline of my
+professional history and where I see myself working in the future. Without further ado, I shall start this story at the most logical point...
+the beginning.
+
+# Personal Information
+
+![At Mt. Ranier](images/Picture.png)[h]
+
+
+## Early Years
+
+I was born on 17 September 1977 in the small town of Machias, ME. My father was an Airman stationed at the now closed Bucks Harbor Air Force Station as
+a Radar Technician and my mother was a local resident of the area. Due to being born into a military family, my childhood was spent in a constant state
+of transition. As such, I do not have any real "home town" to which I identify but instead every location has imprinted itself on my memories. The most
+notable is the 4 years spent in Belgium, where my family lived off-post among the local community. According to my mother, during this period I spoke
+French well enough to cause havoc throughout the village with the Belgian children who became my friends. It is notable, that I can now remember little 
+more than the common conversational phrases that any first year language student would know. My families travels ended when my father was stationed at
+Tyndall AFB in Panama City, FL. This is the location that I would consider most similar to the traditional "home town" because it is where I spent all
+of my high school years.
+
+## High School Years
+
+While my high school years were some of the best years of my life, full of great friends and great memories...I was, to put it lightly, A
+sub-standard student. This pattern of under-achievement in any subject other than Mathematics was not due to being unable to learn the material but
+an unwillingness to even try. Any class that I did not find interesting, eventually just became a good excuse to skip and go play basketball. I found
+High School to be boring and repetitive, and as such the experience likely soured me on education for a good portion of my life. After graduation, I
+had no interest in pursuing higher education...this was a decision which not well received by my parents. After spending about two years performing 
+random jobs which had no realistic future, I decided that a career in the United States Air Force would be a good option for me.
+
+# Profesional Information
+
+## United States Air Force
+
+On 19 March 1997, I enlisted in the United States Air Force (USAF) and shipped off to Basic Military Training (BMT) in San Antonio, TX. Due to my scores 
+on the Armed Services Vocational Aptitude Battery, there was a wide range of career choices available to me and I entered with guaranteed placement 
+as an Electronics Technician. While it was an "interesting" experience, BMT was likely something that I needed in my life as it reinforced personal
+responsibility and provided an organized/structured way of life which up to that point I had lacked. After BMT, I was sent to technical training in
+Biloxi, MS to be certified as a Ground Radio Maintenance Technician Apprentice. I believe this opportunity allowed me to understand that it wasn't school
+that I didn't like but the way that my high school years were structured. When given the opportunity to study things that actually interest me 
+(technical subjects), I had no issue with applying myself to the material and truly enjoyed the learning experience. That appreciation for the subject
+matter led to a long and what I would consider distinguished career.
+
+Over my 17 years in the USAF, I progressed from apprentice to journeyman and finally to the craftsman level. The journey allowed me to experience different
+cultures throughout the country and the world; North American, Central America, South America, Western Europe, Eastern Europe, and South-West Asia. This
+inspired in me an appreciation for experiencing new cultures and environments which persists to this day. While the military is definitely not an optimal 
+environment for many, it was exactly what i needed in order to prepare me for the life I wished to lead and I look back on all the trials and tribulations 
+with a great sense of appreciation. The friendships and experience along the way cannot be assigned a monetary value...in my mind they are invaluable.
+Unfortunately, as it is with most fields the further you move up the ladder the farther you get from the technical challenges which initially drew you
+to the field in the first place.
+
+After a two year tour supporting counter-drug operations in Honduras, I was stationed to Columbus AFB, MS. This would end up being my final duty station
+prior to retirement and I was placed in the position of Flight Chief for Airfield Operations. For the first time in my career, I was in a purely management
+position and it bored me to tears. While there is a positive side to managing people, and the money is obviously better, my job satisfaction level
+plummeted. At some point during the years serving in that position it dawned on me that administrative and management roles would be entirety of my career
+in the USAF from that point on. So, when they offered the opportunity for early retirement in 2013 I applied and was eventually approved. It was now time to
+try my hand in the corporate environment.
+
+
+## Post Air Force
+
+At the conclusion of my USAF career, I decided that I wanted to experience the joys of living in an all new environment. The two options which seemed to
+appeal to me were either middle-america or the west coast. After exploring job opportunities in those areas the pacific northwest became what I believed to
+be the obvious decision for someone interested in technical fields. The Seattle area especially became a stand out option because of the vast number of
+opportunities in aerospace. After applying for multiple positions across many companies, I was contacted by an aerospace company which focused on power
+conversion technologies and needed an Original Equipment Manufacturer (OEM) repair technician. I flew out to Seattle for the interview, they gave me a tour
+of the facilities, and found the idea of being able to troubleshoot and repair equipment used for commercial airlines to be very enticing. A few days later
+I stopped my job hunt, accepted the position, and began my move to the Seattle area.
+
+It took me very little time to find that being back in a technical position was exactly what I wanted for my life. The opportunity to work on vastly different
+projects on a daily basis, to diagnose and repair failures, and coordinate with engineering staff on root cause analysis was very satisfying. I held this 
+position for about 2 years until I was contacted by Engineering staff and offered a Senior Engineering Technician position. The opportunity to work on and verify
+designs from the theoretical idea phase all the way to implementation was too good to pass up, the extra money was a nice bonus...I accepted.
+
+During this time I began to get the itch to learn something new, I had worked on the hardware side of things for my entire adult life. I decided that I wanted
+to study Software Engineering, so I went to the WSU Everett campus and discussed my aspirations with the adviser. After getting my transfer application and the
+associated paperwork submitted I entered the program. This was an eye-opening experience and I found that when I had the opportunity to choose the subjects 
+that I was going to study, school was actually an enjoyable experience. While there were still non-technical pre-requisites that needed to be completed for the
+degree program I felt like I was in control of the process and able to focus on subject-matter that I found interesting. Looking back now I believe that was the
+main issue I had in High School, I was never in control...there was always someone else deciding what I should study and when. Which brings the story of my life
+to the current day, I am now a Senior in his last semester at WSU and looking forward to my eventual move into a Design Engineer position with the company I
+currently work for after graduation.
+
+# Personality
+
+As a conclusion to this document I would like to take the opportunity to discuss how I characterize my personality traits. My current self is obviously the 
+result of a lifetime of experiences which have shaped the person I became. But there are certain characteristics which I believe have always existed; curiosity,
+loyalty, calmness, logical, and even-handed. I am for the most part a highly structured individual and dislike unexpected occurrences, structure and planning 
+are something that calm me and I dislike taking action before I have time to think through the path forward. I believe this is why I like the technical fields,
+in every problem there is a definable failure which only requires cautious approach and time to identify. The soft sciences and purely theoretical fields tend
+to bore me, I want to be able to instantiate an instance of the design into the physical world...to see the results! There is one area of my life where these
+characteristics do not seem to apply...I have a terminal case of wander-lust. The 7 years I have spent in Washington is the longest I have lived in one location
+for my entire life. I consistently get itchy feet and start looking at job opportunities in random locales in which I've never visited. The logical part of my
+brain has, up to this point, always gotten the better side of the argument and reminds me that I have a great job at a great company with great future potential.
+These are the thing that all responsible adults strive for but that doesn't stop me from day-dreaming about just picking up and leaving. If I was to guess, at
+some point that itch will become too strong to ignore and I will end up applying for some position in Wyoming, Alaska, or maybe even a different country like
+Ireland!
