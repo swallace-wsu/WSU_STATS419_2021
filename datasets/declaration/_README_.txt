@@ -1,0 +1,1 @@
+data found at https://www.loc.gov/exhibits/declara/ruffdrft.html and https://www.archives.gov/founding-docs/declaration-transcript#:~:text=We%20hold%20these%20truths%20to,their%20just%20powers%20from%20the

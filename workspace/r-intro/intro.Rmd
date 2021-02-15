@@ -1,6 +1,6 @@
 ---
 title: 'R Notebook: intro'
-author: "Monte J. Shaffer [monte_shaffer]"
+author: "Sean D. Wallace [sean.d.wallace]"
 output:
   html_document:
     df_print: paged
@@ -10,18 +10,19 @@ output:
 # github.monte
 which.github = "local";  # local ... remote 
 
-github.local = "C:/_git_/github/TEMPLATE-Pseudo/";
-github.remote = "https://raw..../";
+github.local = "C:/_git_/WSU_STATS419_2021/";
+github.remote = "https://raw.githubusercontent.com/swallace-wsu/WSU_STATS419_2021/main/";
 
 if(which.github == "remote")
   {
   include.me = paste0( github.remote, "functions/functions-intro.R");
   library(devtools);
   source_url(include.me);
-  } else {
-          include.me = paste0( github.local, "functions/functions-intro.R");
-          source(include.me);
-          }
+  }else 
+  {
+  include.me = paste0( github.local, "functions/functions-intro.R");
+  source(include.me);
+  }
 ```
 
 
